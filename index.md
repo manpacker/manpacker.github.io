@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Wang Wei's github page
 
 You can use the [editor on GitHub](https://github.com/manpacker/manpacker.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
